@@ -1,0 +1,25 @@
+{
+  "players": [
+    {
+      "firstName": "Flo",
+      "lastName": "Hochart",
+      "birthYear": 2000,
+      "team": "Golden State Warriors",
+      "id": 1
+    }
+  ],
+  "teams": [
+    {
+      "name": "Warriors",
+      "city": "Golden State",
+      "conference": "West",
+      "id": 1
+    },
+    {
+      "name": "Knicks",
+      "city": "New York",
+      "conference": "East",
+      "id": 2
+    }
+  ]
+}
